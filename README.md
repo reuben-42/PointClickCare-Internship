@@ -3,7 +3,7 @@ Coding Challenge for the 2025 Summer Internship at PointClickCare
 
 # DESCRIPTION
 This Java-based program is a re-creation of the card game, BlackJack. 
-The goal is to achieve a total value of 21 of all the cards in your hand, or obtain a higher total card value than the Dealer, while competing against a Dealer.
+The goal is to achieve a total value of 21 of all the cards in your hand, or obtain a higher total card value than the Dealer, while competing against the Dealer.
 Its simple GUI allows the user to have a user-friendly experience.
 
 # INSTRUCTIONS
