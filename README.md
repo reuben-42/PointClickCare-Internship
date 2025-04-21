@@ -8,7 +8,8 @@ Its simple GUI allows the user to have a user-friendly experience.
 
 # INSTRUCTIONS
 ![image](https://github.com/user-attachments/assets/165c7629-e66a-48fc-b985-a76bb2ca84d8)
-When you first run the game, you will be at the Title Screen for 3 seconds. After that, you will be taken to the Main Game. You and 2 other Bots will be competing against the Dealer, individually.  
+When you first run the game, you will be at the Title Screen for 3 seconds. After that, you will be taken to the Main Game. You and 2 other Bots will be competing against the Dealer, individually.
+![Title Screen](./Screenshots/screenshot1.png)
 
 ![image](https://github.com/user-attachments/assets/5137f7ce-c68c-4fc8-b220-07e4d32fed7a)
 You will be shown the Blackjack table and a card faced up. This card is the Dealer's first card. It then asks you to place a bet (if you type in anything other than a number or a negative number, it will ask you again). After placing your bet, you will see how much both the Bots bet (these values are randomized).
