@@ -6,7 +6,7 @@ This Java-based program is a re-creation of the card game, BlackJack.
 The goal is to achieve a total value of 21 of all the cards in your hand, or obtain a higher total card value than the Dealer, while competing against a Dealer.
 Its simple GUI allows the user to have a user-friendly experience.
 
-INSTRUCTIONS
+# INSTRUCTIONS
 ![image](https://github.com/user-attachments/assets/165c7629-e66a-48fc-b985-a76bb2ca84d8)
 When you first run the game, you will be at the Title Screen for 3 seconds. After that, you will be taken to the Main Game. You and 2 other Bots will be competing against the Dealer, individually.
 
