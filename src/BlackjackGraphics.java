@@ -230,8 +230,6 @@ public class BlackjackGraphics extends JPanel implements ActionListener
 				//While Loop to continually ask the user if they want to pick up more cards
 				while(true)
 				{
-					//String input = JOptionPane.showInputDialog(null, "HIT (pick up another card)\nOR\nSTAY (go to the next person)", "Input Dialog", JOptionPane.QUESTION_MESSAGE);
-			
 					//Ask the user if they want to HIT or STAY (each button pressed returns an INDEX VALUE)
 					int index = JOptionPane.showOptionDialog(null, "HIT (pick up another card)\nOR\nSTAY (go to the next person)", "Option Dialog", JOptionPane.DEFAULT_OPTION, JOptionPane.QUESTION_MESSAGE, null, buttons, null);
 					
