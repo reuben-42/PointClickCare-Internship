@@ -493,7 +493,7 @@ public class BlackjackGraphics extends JPanel implements ActionListener
 			}
 			
 			//Show how much money each person/player has earned from the round
-			JOptionPane.showMessageDialog(null, "You have accumulated " + df.format(player_bet) + "\nBot 1 has accumulated " + df.format(bot1_bet) + "\nBot 2 has accumulated " + df.format(bot2_bet), "Message Dialog", JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(null, "Your bet is now worth " + df.format(player_bet) + "\nBot 1's bet is now worth " + df.format(bot1_bet) + "\nBot 2's bet is now worth " + df.format(bot2_bet), "Message Dialog", JOptionPane.INFORMATION_MESSAGE);
 			JOptionPane.showMessageDialog(null, "The dealer accumulated " + df.format(dealer_bet) + " from this round", "Message Dialog", JOptionPane.INFORMATION_MESSAGE);
 		
 			//Show how many rounds each player has won
